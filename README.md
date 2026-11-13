@@ -51,14 +51,11 @@ A Netflix-inspired movie browsing app powered by the TMDB API. [Live demo](https
 ### 🎵 Spotify
 A Spotify-style music web app built with React, styled-components and the Spotify API. [Source](https://github.com/sahilkhan-code/spotify)
 
-## 📊 GitHub stats
+## 🌱 Currently
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sahilkhan-code&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhan-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
+- 🔨 Building fullstack products with React, React Native and Node.js
+- 🤖 Exploring LLM integrations with the OpenAI API
+- 📚 Sharpening system design and TypeScript
 
 <!-- Add your links here, for example:
 ## 📫 Connect
